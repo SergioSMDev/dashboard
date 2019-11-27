@@ -1,0 +1,3572 @@
+[
+	{
+		"guid": "72e0d432-d07b-4926-b590-499a5dae3f26",
+		"courseTitle": "Engineer Kwacha Intelligent Concrete Bacon",
+		"modules": [
+			{
+				"guid": "32ecdc0b-e825-467c-9bf4-464b82f4a087",
+				"moduleTitle": "AGP",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "59fc9b20-3dbd-4835-8573-9106aa495165",
+				"moduleTitle": "Buckinghamshire",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "ee87fd64-f430-477e-a8cf-53828a1bd514",
+				"moduleTitle": "Oregon",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "8db2c3a3-daea-4e45-b25e-8ddd82160c82",
+				"moduleTitle": "aggregate",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0327e058-2137-47b2-a26e-321e9cb99894",
+				"moduleTitle": "Ecuador",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "411f6fe2-9a5d-4dfe-8d2c-1d293d96defe",
+				"moduleTitle": "Multi-layered",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "5a13a9a2-a40d-4e90-96e8-8cc8033c84d0",
+				"moduleTitle": "array",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "b85f0973-9b4f-4ddf-b023-8c17f15ca132",
+				"moduleTitle": "Virginia",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "5f6f6551-18e6-4d6a-b27f-906275dbf04d",
+		"courseTitle": "Planner Granite",
+		"modules": [
+			{
+				"guid": "b0f679d9-473d-45da-becb-370d481996b4",
+				"moduleTitle": "Legacy",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "2e4f78ad-27b0-469f-a7c1-520f935a6802",
+				"moduleTitle": "Taka",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "d3d582d8-6856-4efd-ae4e-8cac6ad1950f",
+				"moduleTitle": "Representative",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "6a7fa9b0-883a-475c-adc6-54212eb224c2",
+				"moduleTitle": "Principal",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "8a482f48-20e5-4d39-9321-539f854ac701",
+				"moduleTitle": "impactful",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "73d45ea9-6aa2-4a11-b1e1-b59a8ba9d006",
+				"moduleTitle": "Tools",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "7f733709-0726-46fa-bf41-d3fbaed7ed0a",
+				"moduleTitle": "Handcrafted",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "b89d607a-f70c-4390-99d3-2d185d62bcf7",
+				"moduleTitle": "Auto Loan Account",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "525fb16b-6f64-4d2f-8654-845435e91445",
+		"courseTitle": "Salad Bedfordshire",
+		"modules": [
+			{
+				"guid": "40bb8df1-02e3-4351-bad7-d0de26c775b0",
+				"moduleTitle": "alarm",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "ace1b4ab-417f-4ffd-98fa-f3641ca5fe1d",
+				"moduleTitle": "repurpose",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "b3f00aac-e592-4b8a-9fca-3d752310e124",
+				"moduleTitle": "Configuration",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "e92740c4-5031-49ea-9e2e-2d8f6d4c0789",
+				"moduleTitle": "Forward",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "460731ec-007f-42ae-973e-2fb80e3092ca",
+				"moduleTitle": "Neck",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "7e75eb6f-d96d-4416-bea0-1bd47340a924",
+				"moduleTitle": "Maryland",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "4468372c-2426-4706-8717-4df3f468b075",
+				"moduleTitle": "IB",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "15ebe343-1b32-471f-a9ba-7a4f63a1e2bd",
+				"moduleTitle": "invoice",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "a54c28b0-4d9c-438b-9716-9908feb73d1f",
+		"courseTitle": "turn-key 1080p",
+		"modules": [
+			{
+				"guid": "e38ce5e0-6ca2-444d-bb6d-6decb0a61de5",
+				"moduleTitle": "Checking Account",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "d7113048-f39d-4db6-8aa5-ea174d7a4c12",
+				"moduleTitle": "incubate",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "29c1c684-ebdf-4d35-bea9-66d97bec9387",
+				"moduleTitle": "extranet",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "92bf4bb0-659f-4e4c-9895-a54cdbddcdfa",
+				"moduleTitle": "Licensed Soft Gloves",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "cdb587c9-af8a-47da-9ba9-ffeb8f361d74",
+				"moduleTitle": "policy",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "2dd211d6-169e-4885-9b05-8fe6fda2b95e",
+				"moduleTitle": "Money Market Account",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "9d983daf-a694-42dd-9a08-6069d0d7bd30",
+				"moduleTitle": "parse",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "b76f3851-1d86-4dfa-b0ab-8be7127dee6b",
+				"moduleTitle": "Paraguay",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "927ab336-dc4e-4837-88f5-0d6098cce5c1",
+		"courseTitle": "Front-line",
+		"modules": [
+			{
+				"guid": "90f5f030-301d-4ade-bbfd-6e6fc1d3b3c4",
+				"moduleTitle": "e-enable",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "bc5473b4-f1cb-43df-9625-e7b07a5ea9e2",
+				"moduleTitle": "parsing",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "43434da9-1f28-430c-9b8b-51eecc91e321",
+				"moduleTitle": "Fresh",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "f479ae8d-ca7d-45ca-a4bf-519785e3a90e",
+				"moduleTitle": "back-end",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "42617fb7-4087-40f5-8b93-67036dde5aa8",
+				"moduleTitle": "Fords",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "548bea78-e1d6-486c-a8c4-ba86da452f84",
+				"moduleTitle": "Ethiopian Birr",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "7dcde773-25ea-49bb-8b6d-d667a895c6f9",
+				"moduleTitle": "model",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "38d0c320-af9d-416b-ba3d-26c824359f16",
+				"moduleTitle": "Berkshire",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "d22a4497-2202-4a15-92f6-aa47e5f603af",
+		"courseTitle": "portals didactic",
+		"modules": [
+			{
+				"guid": "87e5b339-2510-4176-a723-5dbae520e2fa",
+				"moduleTitle": "Pants",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "e8065a2f-e449-4259-b682-24a64ea265a8",
+				"moduleTitle": "leverage",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "98f31e21-c747-4f93-8b94-c658f2eb972d",
+				"moduleTitle": "Health",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "c1a03364-40c3-4a84-9826-6756ddd0ada9",
+				"moduleTitle": "rich",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "947d1bfa-9c6b-4b40-8e8b-238b748052cb",
+				"moduleTitle": "Future",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "a9a885ff-6b87-4949-b040-d1764ad593f0",
+				"moduleTitle": "Global",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "a22f2abd-7cf3-4c13-9e2e-65214b02b37a",
+				"moduleTitle": "e-markets",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "028e40ac-a3bc-4935-b0be-504199547d44",
+				"moduleTitle": "Savings Account",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "6550acae-ecca-4395-bdd1-bb15c0ca091a",
+		"courseTitle": "bandwidth Accounts",
+		"modules": [
+			{
+				"guid": "732dafa5-ea69-4932-b414-3d918ef0ca48",
+				"moduleTitle": "Adaptive",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "91873a43-8fac-41ef-8684-c4e333e182ab",
+				"moduleTitle": "Triple-buffered",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "37227e14-18c7-40ad-ad24-0f01bab51895",
+				"moduleTitle": "TCP",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "7ecb4dc1-dae0-4cbe-9849-f85be048a250",
+				"moduleTitle": "holistic",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "107dda04-edc4-47bc-ad93-301857c3b11f",
+				"moduleTitle": "orchid",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "c2fe603f-f7e0-4eab-8dc3-0412bd1c6f35",
+				"moduleTitle": "Moldovan Leu",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "2476e1ce-13a2-4535-a1e7-dd1d8f09c315",
+				"moduleTitle": "Auto Loan Account",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "a90f27e3-8a30-498a-94c4-94f50eec82b3",
+				"moduleTitle": "Coordinator",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "29ce5922-6e27-4fe0-b851-6375e1fa097f",
+		"courseTitle": "Cambridgeshire",
+		"modules": [
+			{
+				"guid": "964bb9fe-948e-4551-bc86-646d47addb31",
+				"moduleTitle": "synergize",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "9698f78f-ab8c-4f2b-98c5-2dd3943fcb57",
+				"moduleTitle": "Generic Metal Chair",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "7940cee7-d57f-452c-ac0e-7935337f4ae8",
+				"moduleTitle": "Refined Granite Mouse",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "c7337a34-98c8-4c8b-a157-79a96d525201",
+				"moduleTitle": "Frozen",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "655214a5-8d14-4091-b299-c2563784523a",
+				"moduleTitle": "proactive",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a0ce591c-33f1-460c-a933-0c01b4438e92",
+				"moduleTitle": "Rustic Steel Table",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "6773e681-e466-42fa-b121-70ca0837b65b",
+				"moduleTitle": "programming",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "4ef2b9f9-7214-435b-8f05-6ef9ff569e16",
+				"moduleTitle": "Quality-focused",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "415dd287-c102-42a4-9eae-ba78e6f62744",
+		"courseTitle": "Steel",
+		"modules": [
+			{
+				"guid": "1007d627-67a1-4cd7-951b-5418eb739e0a",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "34d83f61-32fd-4477-bbb9-a2c4b0663505",
+				"moduleTitle": "initiatives",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "dd1448ae-140d-473d-8746-aa0616b010d3",
+				"moduleTitle": "Argentina",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "e65e5a58-5971-4af8-b8ff-45442df3f305",
+				"moduleTitle": "Product",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "b6c1af3c-d93c-402c-9fbb-d2ff14b76eff",
+				"moduleTitle": "Gorgeous Fresh Salad",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "f4ea5a6a-fcdd-408c-a0eb-9c22ebfaa3df",
+				"moduleTitle": "Denar",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "c02d9407-1e13-49a6-87e0-9a0b35d71e04",
+				"moduleTitle": "bandwidth",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "c1e2a532-da3d-4c7e-ab75-d9a8737e3fac",
+				"moduleTitle": "Practical",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "dc44656c-52eb-4cf4-800a-0792df20ac73",
+		"courseTitle": "connecting Bedfordshire vertical",
+		"modules": [
+			{
+				"guid": "3c1bc94e-9923-4c95-aa11-eac0f21267e8",
+				"moduleTitle": "Horizontal",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "2f6bd606-dbfa-4b0a-aef5-2dfe36dddad4",
+				"moduleTitle": "Checking Account",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "5fd6fd1d-31e5-442b-8c14-6e39f55bbe98",
+				"moduleTitle": "compressing",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "39d87bcd-3f4d-47ad-af80-7b883654b65a",
+				"moduleTitle": "enable",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "489b8188-d070-4f78-9b79-7c40601c939a",
+				"moduleTitle": "Implementation",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "b4fca3ac-b640-4348-abbc-ad423b272fe0",
+				"moduleTitle": "Proactive",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "21c8786d-a746-4db4-af0b-8c23e91d9260",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "6579fd1d-87c6-44cb-9b4c-f9393db02c91",
+				"moduleTitle": "Buckinghamshire",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "67882be6-4e88-4511-83f4-39ec10f6943c",
+		"courseTitle": "Tactics Markets Ukraine",
+		"modules": [
+			{
+				"guid": "8afb00c0-f52f-4806-a751-698b03b53904",
+				"moduleTitle": "Berkshire",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "124d44af-b133-436e-80fc-de8202df8141",
+				"moduleTitle": "auxiliary",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "02d0a239-faaf-44fd-860a-10e7f8edaa03",
+				"moduleTitle": "Consultant",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "fc0c306b-507e-478e-84d8-7e4398f2cf6b",
+				"moduleTitle": "wireless",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "445b45d1-149a-4fa8-8d0e-9b11a5b23d76",
+				"moduleTitle": "orchestrate",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "e2295f1c-b882-4598-8d48-ce2339a5a7e6",
+				"moduleTitle": "synthesizing",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "a8cef86c-1c26-43d4-aaf7-410e0706b5f0",
+				"moduleTitle": "supply-chains",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "5944d6ac-0b4e-47d0-96f2-3275cb5397f8",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "6e844221-8ca0-4d74-a190-9cd39fcfc000",
+		"courseTitle": "Home Loan Account auxiliary solid state",
+		"modules": [
+			{
+				"guid": "5f3ab9ee-0a41-44ab-9656-33c631c81d40",
+				"moduleTitle": "programming",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "48b27f0c-3ce5-4d4d-9c2f-809455020aca",
+				"moduleTitle": "focus group",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "28682efd-2645-4cc2-9902-3e34c34eda67",
+				"moduleTitle": "backing up",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "6affe4f9-218d-4e1d-9dee-8df748cd1d0a",
+				"moduleTitle": "plum",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "29ca9cc3-d572-4ade-afec-fcc089c9d7fc",
+				"moduleTitle": "Small",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0262cf38-894d-4149-b613-0192e5077608",
+				"moduleTitle": "Handmade Granite Mouse",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "898d0f24-812a-4caf-8468-cc72a6cdf862",
+				"moduleTitle": "Israel",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "53461d34-427d-4209-8017-82463ab09012",
+				"moduleTitle": "Lake",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "bb1ef03f-ab58-4295-aeb9-f3cf220c3406",
+		"courseTitle": "Netherlands Antillian Guilder",
+		"modules": [
+			{
+				"guid": "2eb3914b-4029-417e-929d-96b01fb3fa37",
+				"moduleTitle": "Loaf",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "777cc576-0733-433a-bb6f-59e532b4e1f1",
+				"moduleTitle": "Plastic",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "68913bc2-9229-4217-bb85-c21c9d54bead",
+				"moduleTitle": "Belize",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "16693b32-9a2a-4dd6-ac41-f23a90a1d460",
+				"moduleTitle": "program",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "6671bb9d-b3db-4508-8e80-a4d4e3fbca1c",
+				"moduleTitle": "Gorgeous Rubber Mouse",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "f134034a-8590-42ac-8dae-8f729f0f4724",
+				"moduleTitle": "withdrawal",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "be1814ed-bdee-4845-9947-7e15a84f1e4c",
+				"moduleTitle": "capacitor",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "217d64aa-1302-4f5a-95f5-42d8be7f66d7",
+				"moduleTitle": "Road",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "ed637f6f-a393-4417-8ae8-7a79aa44f25c",
+		"courseTitle": "Row",
+		"modules": [
+			{
+				"guid": "44c5337f-8d35-45b3-9819-d381da50d733",
+				"moduleTitle": "service-desk",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "fc8c950c-c007-4533-9992-b05a7eee4839",
+				"moduleTitle": "Crossing",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "9888a086-7959-4bda-a764-6062209ff61e",
+				"moduleTitle": "quantify",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "8b362ea5-091a-4540-98ae-f70592087dd5",
+				"moduleTitle": "hacking",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "87656e8a-529d-4cd6-9764-0a1c4e1de8f8",
+				"moduleTitle": "Graphical User Interface",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "9c279605-fd4d-4148-abe6-47e2643757ed",
+				"moduleTitle": "system",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "fc36df4f-9208-4552-90f8-2ff9c66589fb",
+				"moduleTitle": "Berkshire",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "b34e6f47-7ce1-4837-acd0-3f073d2496e6",
+				"moduleTitle": "generating",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "780a81ba-d63c-4412-a69b-4d12ea6a477d",
+		"courseTitle": "Rustic Cotton Hat facilitate Chips",
+		"modules": [
+			{
+				"guid": "27462a1d-1538-4277-93e4-2a316a46055b",
+				"moduleTitle": "withdrawal",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "cbd7e86b-48f7-49ca-8ea1-bf4f562d11f7",
+				"moduleTitle": "transmitter",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "65cd2f7b-76d1-4611-af87-48ee0434f3a9",
+				"moduleTitle": "Ergonomic Frozen Tuna",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "094ad5da-bc76-4a56-9ab4-4d4d94c761d4",
+				"moduleTitle": "Program",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "7d01eca2-7754-4c58-9db6-50f021a9c2f3",
+				"moduleTitle": "copying",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "93a549eb-f681-42d5-a974-444391822bdb",
+				"moduleTitle": "green",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "65d96bbe-8939-4e71-95af-0b0343764900",
+				"moduleTitle": "Chips",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "f01f1c32-2e01-491b-98a4-4b5f975f0942",
+				"moduleTitle": "Chief",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "b0acbb5b-0b87-46c9-b777-b7512065aac7",
+		"courseTitle": "infomediaries Lead",
+		"modules": [
+			{
+				"guid": "137d4da6-d169-49ec-870b-f67114db34a0",
+				"moduleTitle": "wireless",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0805fc2e-44a0-48e9-ac39-397442582fb4",
+				"moduleTitle": "Senior",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "271711cd-f24b-41a9-a7aa-f4b1a2800bc2",
+				"moduleTitle": "violet",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "c74de896-bf9c-4af4-9560-08c44eda31a7",
+				"moduleTitle": "withdrawal",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "87bd7a82-b0a1-4184-aa1d-584d0a84d130",
+				"moduleTitle": "markets",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "eb9a3ff2-f6e2-4a08-bbcd-9cc8ddfb45e4",
+				"moduleTitle": "backing up",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "4fbf6561-396b-4134-9601-fe55a1d23b28",
+				"moduleTitle": "experiences",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "ed3e8c75-07d5-4492-b3e2-e5e74b836547",
+				"moduleTitle": "Computers",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "29762355-d1c8-47ee-83b7-bd84293882f6",
+		"courseTitle": "Triple-buffered",
+		"modules": [
+			{
+				"guid": "043dd180-4bc1-408d-958f-941f27cd34c9",
+				"moduleTitle": "networks",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "efb864ba-659e-4ae9-98f6-49ddaa874740",
+				"moduleTitle": "Soft",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "ef7160a3-af45-4d77-a240-ddeaa96f0d4b",
+				"moduleTitle": "Chief",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "dac5f815-8370-4932-b6b8-73104d21094b",
+				"moduleTitle": "Ball",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "e993ee80-4630-497a-9393-b710f9cb14f5",
+				"moduleTitle": "green",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "766b2812-a9a4-4aa3-8e87-5ccc0f5f5569",
+				"moduleTitle": "Frozen",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "833e23d3-27af-4f6c-97db-15e07443dfc0",
+				"moduleTitle": "array",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "6e7cc012-f5a6-40ed-aab6-162b7fef1bc1",
+				"moduleTitle": "Tuna",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "3472bdd4-8398-42de-bd48-a763ab562eaa",
+		"courseTitle": "Investment Account",
+		"modules": [
+			{
+				"guid": "a13f5e4f-c64d-4a03-a7db-dd5fd97bc866",
+				"moduleTitle": "New Mexico",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "4fdfb483-fcdd-4682-b08f-67b947ee5f08",
+				"moduleTitle": "Home Loan Account",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "d670ec3c-fad2-45de-a2fd-97f70d454bff",
+				"moduleTitle": "synergies",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "c2aceb67-2db4-42ff-b45b-c7a21058c8fa",
+				"moduleTitle": "Fish",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "53f3b55a-002c-4698-b0a6-ec2087850cb2",
+				"moduleTitle": "Oklahoma",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "efda4b30-edc1-4699-afb7-aa44a4f5a784",
+				"moduleTitle": "Centralized",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0c504064-ecbc-4955-8151-4c4269c2c2db",
+				"moduleTitle": "generate",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "bfe6049d-dbcb-44b7-baa6-30c290142d8f",
+				"moduleTitle": "methodologies",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "bb046236-4bf3-4157-9f8c-0ec7986e15e5",
+		"courseTitle": "Architect Avon B2C",
+		"modules": [
+			{
+				"guid": "48e0ee3d-6595-4ed3-a512-8a0ada84d041",
+				"moduleTitle": "Paradigm",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "1b8fc937-1454-4e9f-b2df-450714f52312",
+				"moduleTitle": "Automotive",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "4f8e29c6-212d-41e9-8442-582e15609980",
+				"moduleTitle": "reciprocal",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "6aee270e-5dda-4db1-aae1-317bc14cb876",
+				"moduleTitle": "North Dakota",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "d4442386-7d8c-4513-836b-5c404bb33c31",
+				"moduleTitle": "robust",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "0808dd60-a882-4c8c-8b2c-415ec247cb02",
+				"moduleTitle": "Director",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "243ea874-a979-4867-8c89-2f7c732f632a",
+				"moduleTitle": "core",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "a8109f58-dce7-49cf-925a-8fd2b585c1f7",
+				"moduleTitle": "e-business",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "d6710532-3747-46ec-a3b8-ccc4ca51093b",
+		"courseTitle": "Investment Account",
+		"modules": [
+			{
+				"guid": "d89cc399-9671-4b9e-95fe-d1dff68825ef",
+				"moduleTitle": "Frozen",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "361a8f57-b2e0-4e4b-bcc9-427c21fc617f",
+				"moduleTitle": "connecting",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "977889c1-81a9-4dbc-9083-59da5e8540d6",
+				"moduleTitle": "Sudanese Pound",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "14d1c34b-636a-41fc-bdb7-8c5a823624be",
+				"moduleTitle": "world-class",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "168aece0-c400-4bb1-94f1-1963d36d4500",
+				"moduleTitle": "withdrawal",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "3a0e93d1-af97-4a5f-83e6-958d12b9198a",
+				"moduleTitle": "Hat",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "e4a3f3ab-15e5-4725-82a5-6a6f7fb958b3",
+				"moduleTitle": "Investment Account",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "e71928fb-a848-4b2b-8997-f188271a1e2c",
+				"moduleTitle": "synthesize",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "2cff0f93-051a-41e5-9612-d376960b019c",
+		"courseTitle": "Configurable",
+		"modules": [
+			{
+				"guid": "21131a70-4859-4e47-991d-8cd9d61a9303",
+				"moduleTitle": "complexity",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "ba42afff-5076-4952-98b5-897ec537dd80",
+				"moduleTitle": "Frozen",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "c9271b52-3bbb-42fb-9ff4-c1ae669f3684",
+				"moduleTitle": "SCSI",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "da08b7fe-84fb-4922-8800-2d38024b3ccf",
+				"moduleTitle": "3rd generation",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "09bdb6dd-6d13-4ff6-9048-0fb8c729fca7",
+				"moduleTitle": "Guyana Dollar",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "144ca427-d77e-46dd-844e-b9bc04e041c3",
+				"moduleTitle": "alarm",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "8f5f84c6-d447-46af-891d-5b0b3ba5fa85",
+				"moduleTitle": "salmon",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "12b72d4a-e1e4-42e3-a7fc-f82e11a92940",
+				"moduleTitle": "Unbranded",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "1fcaaba6-b024-4201-a583-fe6f54f8af8f",
+		"courseTitle": "e-markets Cayman Islands Keyboard",
+		"modules": [
+			{
+				"guid": "0837b521-545e-41c7-b3ae-1ff51c776a95",
+				"moduleTitle": "Outdoors",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "0c20fe50-5dfb-49bb-881b-9f82ff3231d1",
+				"moduleTitle": "Devolved",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "4c3347a1-4a0e-4916-b176-cc1d410e86d9",
+				"moduleTitle": "Shoes",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "a18f9507-d734-47f2-93f7-4d3a1f6494ef",
+				"moduleTitle": "indexing",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "975ae011-02aa-4181-b646-b7129e875f11",
+				"moduleTitle": "Concrete",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "648ac39b-fae8-440c-a50f-8f5b0300cfa6",
+				"moduleTitle": "magenta",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "1a1b9f76-c3b5-4ac8-b3bc-ac0315c4caf2",
+				"moduleTitle": "Legacy",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "d40101e3-0610-4e10-b224-96aaec4902b6",
+				"moduleTitle": "Supervisor",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "69aa50e0-06b1-4f27-99cc-226ecb9d3aa5",
+		"courseTitle": "AGP",
+		"modules": [
+			{
+				"guid": "dbb3c758-ba6e-4953-af08-8f10dbe25137",
+				"moduleTitle": "reboot",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "a5b5aef1-853c-414c-90ef-4b3143558942",
+				"moduleTitle": "schemas",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "d50d276f-82c6-4a12-a256-d13df2b4cee4",
+				"moduleTitle": "Intranet",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "40e43886-5db5-4906-9228-a09c37ffb987",
+				"moduleTitle": "paradigms",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "8fa0ca80-76fb-40ba-9e99-fbcda7015947",
+				"moduleTitle": "PNG",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "669cf655-aaad-4b66-b87d-db4047faacbb",
+				"moduleTitle": "AI",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "767c031b-346d-4fac-923c-547f9b28c5f9",
+				"moduleTitle": "Senior",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "b9b47f10-3421-44ca-ab4e-8f5e5cc4b759",
+				"moduleTitle": "Wooden",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "f1b86d2f-9990-46eb-8a02-65379b7c8de0",
+		"courseTitle": "Tasty Fresh Chicken",
+		"modules": [
+			{
+				"guid": "8934cba5-85fd-47cc-a334-8685ff39e32a",
+				"moduleTitle": "Refined Fresh Ball",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "e0e2a9f4-5b14-447d-936c-18e91242bdf0",
+				"moduleTitle": "magenta",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "3102a49b-bb59-42c3-992c-52e2d709b31b",
+				"moduleTitle": "Director",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0aae7476-57b6-4b3b-b374-168f2e8c7fe5",
+				"moduleTitle": "e-tailers",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "9a299f72-5721-4d72-bdb1-9c34890f36cf",
+				"moduleTitle": "Rubber",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "bb56e129-fbd0-4415-8155-efba64f60f61",
+				"moduleTitle": "bluetooth",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "a7138ca3-39f7-4a32-9027-cf340f439da6",
+				"moduleTitle": "exploit",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "53712da0-b6be-4898-8f45-d780cca1ca65",
+				"moduleTitle": "RAM",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "3246777f-79ba-4ba9-9541-d890ed19a6dd",
+		"courseTitle": "Rustic",
+		"modules": [
+			{
+				"guid": "cfeacbd3-6f2f-442a-85ab-4d36870fce31",
+				"moduleTitle": "Greenland",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a0592f7b-6de1-49c5-b38a-24b973806b16",
+				"moduleTitle": "Agent",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "3ae57b33-f832-43d2-a873-411db04b37f9",
+				"moduleTitle": "Cambridgeshire",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "719bafb9-6610-43b8-a1f4-7de75d11c125",
+				"moduleTitle": "Jewelery",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "59e79e2a-f80a-447e-a79c-950cef430161",
+				"moduleTitle": "multi-byte",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "a8580a8c-4920-44bd-8cee-71d3c2010678",
+				"moduleTitle": "bus",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "5857448b-86f4-4077-b87f-d8effb88118f",
+				"moduleTitle": "back up",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "d0222fe6-f262-4241-9277-1d18dd1b7838",
+				"moduleTitle": "Tasty",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "7cbcb662-c995-431a-812a-2f54ab6a9f24",
+		"courseTitle": "Rustic Concrete Mouse Innovative",
+		"modules": [
+			{
+				"guid": "f332a70f-d171-4fab-a2a9-72693655fa2a",
+				"moduleTitle": "scalable",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "71467590-adf3-43ec-a491-d63fcdef9409",
+				"moduleTitle": "Island",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "4c306371-d3e4-4e0e-9a4b-ebdcd1b638c7",
+				"moduleTitle": "synthesize",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "8f99c02e-39d1-49d8-84e3-46de85d08d09",
+				"moduleTitle": "payment",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "f904f40e-3209-460f-a0fd-f4118e7a7b09",
+				"moduleTitle": "Soap",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "84ae41cd-81ea-400a-961d-3dfdb5423f0d",
+				"moduleTitle": "New York",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "0ff0b747-c351-4627-ae80-93809870905a",
+				"moduleTitle": "Bedfordshire",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "c9bfeaf8-192c-438a-a867-5a3a857db7e4",
+				"moduleTitle": "pixel",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "361aeda1-453e-4f8c-9b58-fd745b0a08a1",
+		"courseTitle": "hard drive",
+		"modules": [
+			{
+				"guid": "5caaec55-2407-4035-a17e-015fee2fb273",
+				"moduleTitle": "Avon",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "77b6666c-fecd-4633-bd2f-a5625576c7d4",
+				"moduleTitle": "RAM",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "12727946-ec06-44f1-82d7-051f3d07ac82",
+				"moduleTitle": "quantifying",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "fd978f70-9515-42ac-9c77-dacde4bc3b20",
+				"moduleTitle": "programming",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "dafd238e-cf57-4e8c-9695-3fd9f9dedff2",
+				"moduleTitle": "Generic Metal Pizza",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "be10fb37-9f09-4855-9875-b00ff47e9393",
+				"moduleTitle": "withdrawal",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "e88135f4-a90c-4f64-9cd6-91b26af61d25",
+				"moduleTitle": "scalable",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "2ab2fdfe-f96d-46f7-8535-ffe46e1fde25",
+				"moduleTitle": "Books",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "e6484be7-bd7d-4637-9478-6837428799fd",
+		"courseTitle": "Sudan",
+		"modules": [
+			{
+				"guid": "fd5e891f-a3f5-4e86-ad72-7cdae86db5a9",
+				"moduleTitle": "recontextualize",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "faa3c7d8-c5f6-4281-ba24-1d10560f7fb8",
+				"moduleTitle": "open-source",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "6ee75fd4-1c2b-4cd2-9bc1-f3082f577ffa",
+				"moduleTitle": "Berkshire",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "275a993d-2bc9-41ff-8b4b-900d64bfc1d5",
+				"moduleTitle": "vortals",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "48ddf50c-f5fa-4c0c-88cf-0549c2bc963a",
+				"moduleTitle": "Polarised",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "b353f4ce-45c6-4fd5-9aa5-a6ca83c89e62",
+				"moduleTitle": "Bacon",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "c97828b5-bf34-4a0a-a233-97673343410a",
+				"moduleTitle": "holistic",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "7ba0ab21-70f3-4f99-a0f7-88019355b056",
+				"moduleTitle": "redundant",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			}
+		]
+	},
+	{
+		"guid": "644312f3-ddbf-4059-b0b7-f1f16651caac",
+		"courseTitle": "Manager",
+		"modules": [
+			{
+				"guid": "91259d02-7629-491b-9ddd-e61c427d9371",
+				"moduleTitle": "Human",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "7777a7e3-c4a3-4156-a87a-daacb0a8363e",
+				"moduleTitle": "Officer",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "97e41366-bb3a-46a2-a7eb-a11382d8261e",
+				"moduleTitle": "Well",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "71e59c2f-ebb0-4b5b-929f-5fd6687de5fd",
+				"moduleTitle": "Object-based",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "fbe72e66-229f-4f0c-af02-425413ceb0e1",
+				"moduleTitle": "Pizza",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "287c0916-4d19-4da8-8bb3-badb6e43ba14",
+				"moduleTitle": "Locks",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "dd675869-7014-49e1-bd97-14e45b656bc4",
+				"moduleTitle": "Markets",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "67f5c2f0-9bc9-4c46-9160-7357d7d914f1",
+				"moduleTitle": "Manor",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "0dc10291-0472-4339-b5c0-81be0e4cae36",
+		"courseTitle": "copying innovative",
+		"modules": [
+			{
+				"guid": "305d78ef-232a-48c2-b961-5603d8e4ceb1",
+				"moduleTitle": "Cocos (Keeling) Islands",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "0269dc22-028c-4bc2-8e2f-f331358cd52c",
+				"moduleTitle": "Ergonomic Cotton Sausages",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "0fc4cbaf-e236-474c-8850-8b8d41e6bcc5",
+				"moduleTitle": "parse",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "3838eaa3-4aa1-462c-9619-0bb52b4dd75b",
+				"moduleTitle": "bus",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "26ad6d65-e915-4f4d-91ae-4c2c80715ed8",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "7df6b7f7-c6ba-4f8d-8e79-bf163fc84a67",
+				"moduleTitle": "Strategist",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "c131a6f5-3967-4121-bcc4-494b36e172f8",
+				"moduleTitle": "real-time",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "00671615-be2d-42ad-a761-0213b6897653",
+				"moduleTitle": "Neck",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "ba4ff023-a26f-4757-b2d6-5153d9789724",
+		"courseTitle": "Estate",
+		"modules": [
+			{
+				"guid": "3f5b8d93-7408-4b8e-9c7b-5b6cf9b53c4c",
+				"moduleTitle": "Shoes",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "6baca622-15e0-4c61-81ec-715f16b67df0",
+				"moduleTitle": "Central",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "f31ee28b-4fcc-40bb-9a23-35337c9c20cd",
+				"moduleTitle": "Personal Loan Account",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "64c2128f-79c8-4493-bd6b-afa5efab1ee2",
+				"moduleTitle": "Fish",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "ad406a43-3563-4318-85f8-7b7778f6d488",
+				"moduleTitle": "North Dakota",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "fd83139d-3287-4e15-8108-3a066ff1f730",
+				"moduleTitle": "virtual",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "be57431a-89dd-4f08-9965-9c11b6e30920",
+				"moduleTitle": "Bolivia",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "6681a31b-989d-4786-a958-1e4f9df7d754",
+				"moduleTitle": "extensible",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "4492f95d-b783-40e4-9032-ac4c2d8c86b4",
+		"courseTitle": "Borders granular",
+		"modules": [
+			{
+				"guid": "4e9f2ff6-b385-4232-86d3-3c19a7acb366",
+				"moduleTitle": "Lead",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "23304980-7eb3-44a5-a1af-a7df80a90f25",
+				"moduleTitle": "Bedfordshire",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "bd03e038-9438-4334-8a27-7c792512009a",
+				"moduleTitle": "calculate",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "c25cf632-eee6-4dfc-b4f0-62ae18ca1ab5",
+				"moduleTitle": "virtual",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "55609aa1-67dd-4b63-b70e-cc11a2c4137b",
+				"moduleTitle": "Loaf",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "4796c55c-76cf-45f6-b7d8-81b25177addb",
+				"moduleTitle": "SMS",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "554281c6-05de-45ea-a519-bfd760c0d51f",
+				"moduleTitle": "Home Loan Account",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "fc7b45f3-5221-479b-99f6-6fce24e53c81",
+				"moduleTitle": "implement",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "3f17fc65-1b55-4c82-8804-c3a9c0410d79",
+		"courseTitle": "Investor Plaza Washington",
+		"modules": [
+			{
+				"guid": "dfc8ae1f-5488-415b-9643-73a39410a30f",
+				"moduleTitle": "SCSI",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "caf0dd66-3d33-4d1d-8223-790efcd3267d",
+				"moduleTitle": "orchid",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "85ccce3a-85ba-4202-934d-0f0e5da9c97a",
+				"moduleTitle": "Japan",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "7a1f98de-1678-4b21-8874-13d9a707bc9e",
+				"moduleTitle": "synergistic",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "6362ea80-4d38-4b99-8b57-29d3ea650338",
+				"moduleTitle": "port",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "ec8d74b2-96f7-4355-bfc2-7dab675b91c9",
+				"moduleTitle": "Algerian Dinar",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "298e8bb5-3576-4b32-9404-ada584e3b7ed",
+				"moduleTitle": "Dong",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "cd682e01-a3b5-4de8-a868-ad2a36a5b153",
+				"moduleTitle": "synthesize",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "21de0042-e26e-423c-b141-c8e6362b253f",
+		"courseTitle": "compressing SAS",
+		"modules": [
+			{
+				"guid": "13657283-d1eb-4c59-935e-6b9f8444f212",
+				"moduleTitle": "Industrial",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "2ab0ad0a-4216-46f5-95d3-75222c21ddda",
+				"moduleTitle": "virtual",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "d949f894-230b-4828-91ca-e08fd82d3ff1",
+				"moduleTitle": "Kyat",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "3e9a829b-0049-4dce-8fc2-8d5defa67a3d",
+				"moduleTitle": "Gorgeous Steel Cheese",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "0253c438-0dc5-44d2-9210-85c2ce7cc12f",
+				"moduleTitle": "Auto Loan Account",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "e72d056f-8215-45f7-b06d-0189e3846ab3",
+				"moduleTitle": "European Unit of Account 9(E.U.A.-9)",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "8783b0fd-dbb4-4e6d-a641-cec5d6f88214",
+				"moduleTitle": "Checking Account",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "361965af-970f-4e36-8fe9-c4b0d17d3f66",
+				"moduleTitle": "Nepal",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "4c956494-a1a9-49e1-a11c-17b39500acab",
+		"courseTitle": "Fantastic HDD",
+		"modules": [
+			{
+				"guid": "07db95c5-8416-4ed8-9942-403dee800670",
+				"moduleTitle": "core",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "3455c73b-c2ca-4f87-a557-3c3344a59a4d",
+				"moduleTitle": "plum",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "240802c9-eefc-45a1-b29d-dc60a0fe818b",
+				"moduleTitle": "Auto Loan Account",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "07207831-acfc-4e07-98fe-7cb1c7082c4c",
+				"moduleTitle": "Handmade Frozen Salad",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "d387fca3-a2a0-49c2-bcc3-cbb0cbdc171c",
+				"moduleTitle": "Awesome Soft Mouse",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "9d588ed8-7b56-4c74-821e-83dc40d14203",
+				"moduleTitle": "SQL",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "117a96b0-62bd-44d1-a436-d4cf3181bd25",
+				"moduleTitle": "CSS",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "7e8a3cbd-fbbd-4b6a-895c-497a1349a3fd",
+				"moduleTitle": "invoice",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "65df1f20-a7a5-478b-91c2-52e8a7ba5584",
+		"courseTitle": "India Buckinghamshire application",
+		"modules": [
+			{
+				"guid": "efe6d76d-8d64-4fe4-9a34-1c6290118264",
+				"moduleTitle": "Washington",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "614c1b03-5c50-469e-ab19-8622593bc653",
+				"moduleTitle": "array",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "65f0cd33-3729-4290-8e0d-f46c359d4b37",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "a7293c0a-f4d7-4cdd-87e8-0861446be329",
+				"moduleTitle": "Cotton",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0c206970-37b0-4b7f-986c-43554a911052",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "c3d487ca-cce2-4af7-bcfe-d3b082aa5c16",
+				"moduleTitle": "haptic",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "751f2d14-accb-4308-a1e9-5d749a8e7232",
+				"moduleTitle": "software",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a0f5a5a7-01a4-4474-9480-ba97b5b31442",
+				"moduleTitle": "Connecticut",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "b94f4bcd-6d2b-4ca9-8418-a8669752d938",
+		"courseTitle": "Georgia Consultant",
+		"modules": [
+			{
+				"guid": "77b85200-b7a7-46c4-ba68-88256a4fc996",
+				"moduleTitle": "International",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "17a882ea-de13-446c-b71b-e6d8a26dd7c3",
+				"moduleTitle": "Lead",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "410e1034-abde-4ad3-8d2b-da0150812e12",
+				"moduleTitle": "Motorway",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "d164e457-f466-4960-99d4-3602a7ce3261",
+				"moduleTitle": "Practical",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "fb7215ce-7162-457d-92b7-d777d6d34e94",
+				"moduleTitle": "technologies",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "c69b1394-3eae-4f4b-8eb6-c8b18f2af480",
+				"moduleTitle": "programming",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "0f6b62cd-9ab1-4bb2-9bff-c8a59ad17173",
+				"moduleTitle": "Planner",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "d86a32e9-6eb9-42f1-8f6f-86ceccd4a3ef",
+				"moduleTitle": "transitional",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "3748b898-3827-4556-9cde-f2334f8f1ab3",
+		"courseTitle": "Illinois",
+		"modules": [
+			{
+				"guid": "e5547048-aaa5-4b85-b99e-99389c4f6491",
+				"moduleTitle": "hack",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "70cbf7b6-1765-4acc-b50e-c49e8bb4059e",
+				"moduleTitle": "Rustic",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "646e6ee0-2a0e-4c9e-bed7-c026578737bd",
+				"moduleTitle": "Handcrafted Rubber Cheese",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "dee785a9-26a3-47b7-abbc-2b195ed1e87e",
+				"moduleTitle": "HTTP",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "b9be04a7-bf91-4859-8de5-c0b5ec025cf2",
+				"moduleTitle": "Senior",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "6285f298-d6ca-4fed-b852-b94dda2fd2ab",
+				"moduleTitle": "Beauty",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "69516efa-87a9-4703-abeb-15a753776507",
+				"moduleTitle": "radical",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "cbff1776-cf85-4d87-b1e4-c0bcabc2dbc8",
+				"moduleTitle": "Gloves",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "2c643b7c-f4cc-4f30-a818-6bfd23e7880b",
+		"courseTitle": "scalable",
+		"modules": [
+			{
+				"guid": "0b2515fb-f0ac-4575-ac17-ff98b9ab3bf3",
+				"moduleTitle": "haptic",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "52c6469e-576b-43d0-aed5-6e0aeca3a06c",
+				"moduleTitle": "Unbranded Frozen Gloves",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "81f3503d-1c2d-4ef7-80af-43105df5e6bb",
+				"moduleTitle": "payment",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a3ff4aff-6830-454b-bb5a-08df35e6671b",
+				"moduleTitle": "Tasty Frozen Fish",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "889d7700-b037-4afd-918f-77638dc9c684",
+				"moduleTitle": "Principal",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "d44f2659-8c3d-4e99-8b40-1b866a72157e",
+				"moduleTitle": "Digitized",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "253d9a4c-8943-4909-a36e-1b8a5a112ef2",
+				"moduleTitle": "Dynamic",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "7592ead4-16ca-4af1-8cf0-2203736f247e",
+				"moduleTitle": "utilize",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "e8a882b4-86fd-462e-a7a9-c5c9e8367346",
+		"courseTitle": "input Planner",
+		"modules": [
+			{
+				"guid": "5b8046f8-9e44-44f8-ba84-cadf1fca6b6f",
+				"moduleTitle": "matrices",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "34f936b0-5102-49a0-96ea-3a36d1ced096",
+				"moduleTitle": "navigate",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "5c2c0ca2-0987-470d-abc4-f5f0b45d22ad",
+				"moduleTitle": "EXE",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "b4d8def5-1cbb-4af9-9a90-a7ccea1be263",
+				"moduleTitle": "Infrastructure",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "f13b52fa-a223-4a49-9f26-c1f3e8b46007",
+				"moduleTitle": "tan",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "4917f243-ff8f-4858-bfc3-88a1e35c15a8",
+				"moduleTitle": "Identity",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "a54c3aa5-da41-4b0f-bb98-f21d2672a21c",
+				"moduleTitle": "Credit Card Account",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "b57825dc-db90-4d57-ab55-1e60b550c677",
+				"moduleTitle": "Berkshire",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			}
+		]
+	},
+	{
+		"guid": "9bf1f126-24ea-49db-b438-8f4f672dd7b5",
+		"courseTitle": "leading-edge",
+		"modules": [
+			{
+				"guid": "fa287466-3544-4ca2-8731-548155b6cb98",
+				"moduleTitle": "reboot",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "0d090c36-64db-4db2-a8ff-3edd1f4ea5aa",
+				"moduleTitle": "Inverse",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "63055652-e513-49d6-af5f-8fccedd80bb7",
+				"moduleTitle": "clear-thinking",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "bfd5e673-622c-4481-84c6-945224780ef8",
+				"moduleTitle": "matrix",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "5c0858a4-3b11-45de-8225-fddb387ccf4e",
+				"moduleTitle": "withdrawal",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "31ee2d97-5e24-45a6-98e6-2e7c6459ed95",
+				"moduleTitle": "Ergonomic Steel Table",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "77115055-a269-4a98-a93d-ec4dc9219fde",
+				"moduleTitle": "Ergonomic Cotton Keyboard",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "09a45464-4b18-4643-a22c-1e89cdbded1b",
+				"moduleTitle": "teal",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "5e10e591-615d-4ee6-9747-e93d9cd19479",
+		"courseTitle": "Forward",
+		"modules": [
+			{
+				"guid": "6a8a61f4-cee2-4653-a11b-8a5998b04f05",
+				"moduleTitle": "Rand Loti",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "3762d8ce-60c4-48ca-8720-56151ac7b3af",
+				"moduleTitle": "HTTP",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "a12d1132-633f-42da-ba02-431c07830ad1",
+				"moduleTitle": "Ergonomic",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "31363fb7-1af6-4b7d-81ea-078df79e6d21",
+				"moduleTitle": "GB",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "d0446c10-a10c-4c22-936a-d4a11c587fc3",
+				"moduleTitle": "Hawaii",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "7134e4bf-91e6-4a51-86ee-016491e0b29b",
+				"moduleTitle": "copying",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "6a7fd174-1228-4c4c-99fb-cec12617ff19",
+				"moduleTitle": "Connecticut",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "f37ba776-83f0-4f22-a6ac-5446c15f28cf",
+				"moduleTitle": "auxiliary",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "3ad9d08c-efb1-4228-ada9-1999e6a619ea",
+		"courseTitle": "deposit Generic Steel Sausages Djibouti Franc",
+		"modules": [
+			{
+				"guid": "bca54f3d-ab9c-4447-a51b-05c406cbeb58",
+				"moduleTitle": "neural",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "5a57a921-a6e0-4b95-a525-feb4a339ab76",
+				"moduleTitle": "Assurance",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "66502e2e-cd21-4147-9813-f04ae48c021f",
+				"moduleTitle": "neural",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "795d4fe2-5d06-4162-b71b-937f376e7113",
+				"moduleTitle": "workforce",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "6ad457d5-5fad-4f94-963c-cd15fcfe60f7",
+				"moduleTitle": "directional",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "c8ab1adf-62c8-4554-a610-1859a9786c27",
+				"moduleTitle": "primary",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "c6dcc1a6-f1bf-4ab3-96ec-920cbbca197e",
+				"moduleTitle": "Mouse",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "bc5d1c07-53d3-4a87-99b1-da734f1101c9",
+				"moduleTitle": "Wooden",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "5a084b78-3f51-422c-8d16-477a199f8167",
+		"courseTitle": "calculate Salad Investment Account",
+		"modules": [
+			{
+				"guid": "de15d42f-bdb6-451b-9d26-70e1bcc6dcbc",
+				"moduleTitle": "Auto Loan Account",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "5d898015-d0a8-4f4b-81a8-2acc3fac07c5",
+				"moduleTitle": "overriding",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "0a11e598-0da9-4612-8df3-f0f7e0cc8688",
+				"moduleTitle": "interface",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "f1ec9b54-3542-48e1-a143-9d2711ceddd4",
+				"moduleTitle": "optimal",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "8b974452-b37f-453e-872f-3dede8052420",
+				"moduleTitle": "1080p",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "f8e67099-b0a7-4957-b4a7-41fea8fdc3e7",
+				"moduleTitle": "deposit",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "55969d7b-5adf-489a-86ea-a96577bae3d1",
+				"moduleTitle": "knowledge user",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "08cac227-ce76-42f3-abd0-2aa85c5c5ccf",
+				"moduleTitle": "cross-platform",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "bef4e16c-2427-4904-9c1b-4353f8907b21",
+		"courseTitle": "Drives strategize",
+		"modules": [
+			{
+				"guid": "5687254d-97f5-4462-a48f-c6a83cd7f753",
+				"moduleTitle": "Chicken",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "61e01779-0c36-4f42-ab6a-30e952cbf49e",
+				"moduleTitle": "navigate",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "818764ba-c972-4b14-8289-0dffff9c2079",
+				"moduleTitle": "Investment Account",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "bf956a2b-c773-4568-89ea-fccbf16cc2b1",
+				"moduleTitle": "backing up",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "74a9dcbb-f5ab-4843-b066-c8d19b79c403",
+				"moduleTitle": "compelling",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "3cefbd77-967f-474d-a1ba-e06bc52e76aa",
+				"moduleTitle": "Associate",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "7d9d76c2-8b6d-4ea5-a075-8f96a08cae50",
+				"moduleTitle": "backing up",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "4fc72528-4f5b-4dff-b1ac-e1f7bf8fe138",
+				"moduleTitle": "Assistant",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "6c25339d-cbfe-43ce-8b7a-af9cad927e5b",
+		"courseTitle": "transition Sleek Steel Shirt navigating",
+		"modules": [
+			{
+				"guid": "af3ba5d8-fd98-4b45-a522-2dba7db19293",
+				"moduleTitle": "integrate",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "3dbd73c6-a1bb-4cdf-886e-b7dd77c14f72",
+				"moduleTitle": "Pizza",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "9cb2614b-3b1a-4ab5-bef5-9eb3603f5d8d",
+				"moduleTitle": "SSL",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a5158228-fcd4-40a1-a278-e75c64867aba",
+				"moduleTitle": "Product",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "80535994-4599-4326-8d7d-cee3282e49d2",
+				"moduleTitle": "Cheese",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a46aa8a9-b2ad-45fb-bb74-920e5c15b773",
+				"moduleTitle": "Global",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "59d9c78a-2bf8-45df-a6ca-862107dd4f12",
+				"moduleTitle": "yellow",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "c38ded50-a9a7-40ba-a46f-51dddc4140eb",
+				"moduleTitle": "web services",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			}
+		]
+	},
+	{
+		"guid": "491dad1d-5827-4ac2-a3dc-cda10d2388d3",
+		"courseTitle": "indigo Skyway",
+		"modules": [
+			{
+				"guid": "22dd21f6-ec10-46c0-878e-d5c8f48742a3",
+				"moduleTitle": "synthesizing",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "019fc60b-322d-43ba-b84c-222288c2eb89",
+				"moduleTitle": "relationships",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "ea373ca3-26fe-4a1b-bddf-f16a003c7c77",
+				"moduleTitle": "generate",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "87a3b9ba-38f5-4cc7-9d95-62d85be4390a",
+				"moduleTitle": "Music",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "a0db4c66-98a1-49bc-99b4-c3bd689e3919",
+				"moduleTitle": "Industrial",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "f9e7daca-dcab-4de5-a2f8-ac76a25c8a85",
+				"moduleTitle": "Investment Account",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "7fd913f5-3c0c-4cf0-896b-52169312532b",
+				"moduleTitle": "quantify",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "2482e6d2-5d34-4640-8c5c-cf2c5f1bb3c8",
+				"moduleTitle": "Ergonomic",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "75e6f2f8-975d-45e0-a3b6-189fc8445e63",
+		"courseTitle": "green",
+		"modules": [
+			{
+				"guid": "38b6bc39-4186-4749-be84-bac40ef28110",
+				"moduleTitle": "Customer",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "102ede59-9721-4cf7-b54b-e4a835e54bc5",
+				"moduleTitle": "cross-media",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "dbbf4d54-5f35-4f94-ba93-c769ff7f6c8c",
+				"moduleTitle": "neural",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "60badd4b-379b-4c8b-9f4d-ac56262ebd08",
+				"moduleTitle": "TCP",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "1d5d4fb1-1395-4c0b-8481-f9e6a9af4186",
+				"moduleTitle": "Wooden",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "19154d20-9426-4e0d-9ffc-bf87e57697ad",
+				"moduleTitle": "bus",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "16002ccd-1bed-4fc8-8a13-6b1383256fbd",
+				"moduleTitle": "California",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "e75b84e5-8a99-4be3-8325-ac3b57ef2043",
+				"moduleTitle": "Refined",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "bc333dd8-9243-4803-a211-dab17346c924",
+		"courseTitle": "US Dollar",
+		"modules": [
+			{
+				"guid": "3fae1030-a565-4094-8589-07edea9f719d",
+				"moduleTitle": "Unbranded",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "08ee58aa-54d4-41c0-b258-001319f494a5",
+				"moduleTitle": "Human",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "8c075835-fbe3-421d-a17f-058c6066e202",
+				"moduleTitle": "hacking",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "076aac12-3493-4d0e-afc9-82ec05215559",
+				"moduleTitle": "Data",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "45a3dd48-a0e0-43b4-b86d-2908f5451df2",
+				"moduleTitle": "info-mediaries",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "c59cb29e-66c5-43fe-bc5d-4bbcd726af4c",
+				"moduleTitle": "Oregon",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "bee5b946-d42d-4505-acc1-a39d427fd2ec",
+				"moduleTitle": "transmit",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "c5a4288b-5428-43aa-9d1a-32be87bcd255",
+				"moduleTitle": "Liaison",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			}
+		]
+	},
+	{
+		"guid": "17e6a5f3-3187-4a58-a741-77ff37c31514",
+		"courseTitle": "Music cohesive primary",
+		"modules": [
+			{
+				"guid": "94d01ddb-f168-42ae-8e8f-f4a63b0b781e",
+				"moduleTitle": "Tuna",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "f6abc798-ca46-410a-b25b-1266b02fb5d0",
+				"moduleTitle": "systematic",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "47155ece-bc57-4925-8739-2a004b67eec7",
+				"moduleTitle": "Handmade",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "61699cf6-db41-48fc-934e-ce6295d33f73",
+				"moduleTitle": "relationships",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "92d9611b-0c9d-41d8-ac5b-abeeadfff1f6",
+				"moduleTitle": "Buckinghamshire",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "40fcd47d-38da-4382-8309-cd70db77a865",
+				"moduleTitle": "grey",
+				"moduleStatus": {
+					"key": "rejected",
+					"displayName": "Rejected"
+				}
+			},
+			{
+				"guid": "afb62d9e-f7c3-4db4-a571-2cc1f3aa61c8",
+				"moduleTitle": "embrace",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			},
+			{
+				"guid": "0b1352ba-1949-4f14-8af5-31366e4dd4db",
+				"moduleTitle": "Practical Wooden Chair",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	},
+	{
+		"guid": "c1cfbbd9-be90-4038-a5bb-efc215227551",
+		"courseTitle": "AI superstructure markets",
+		"modules": [
+			{
+				"guid": "bd95fd51-4545-4ce5-8af8-69308093ee00",
+				"moduleTitle": "Rapids",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "e1932daa-364a-43e7-a058-6f55800ac1a2",
+				"moduleTitle": "Representative",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "9fd3f426-86ec-406d-b5be-e91a760615ca",
+				"moduleTitle": "asymmetric",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "45afec2a-776d-4d27-93de-a14f6bc2f3fd",
+				"moduleTitle": "Refined Metal Mouse",
+				"moduleStatus": {
+					"key": "not_done",
+					"displayName": "Not done"
+				}
+			},
+			{
+				"guid": "ab2e704b-ecdd-4cf1-b99a-ba4dfe2cebe1",
+				"moduleTitle": "24/365",
+				"moduleStatus": {
+					"key": "suspended",
+					"displayName": "Suspended"
+				}
+			},
+			{
+				"guid": "251484e2-6eb7-49c5-930e-cc1b63b53257",
+				"moduleTitle": "copying",
+				"moduleStatus": {
+					"key": "done",
+					"displayName": "Done"
+				}
+			},
+			{
+				"guid": "8e616ea6-1663-46e3-9725-18c3528c5fdc",
+				"moduleTitle": "Saint Lucia",
+				"moduleStatus": {
+					"key": "in_progress",
+					"displayName": "In progress"
+				}
+			},
+			{
+				"guid": "73da899e-2296-41ed-94a1-b4fdfc712b39",
+				"moduleTitle": "recontextualize",
+				"moduleStatus": {
+					"key": "high_priority",
+					"displayName": "High priority"
+				}
+			}
+		]
+	}
+]
