@@ -1,13 +1,13 @@
 {
   "name": "webpacktemplate",
   "version": "1.0.0",
-  "description": "up-to-you",
+  "description": "dashboard",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --open --mode development",
     "build": "webpack --mode production"
   },
-  "author": "Togrul",
+  "author": "Togrul, Sergey, Maria",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.5.4",
