@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "dashboard",
   "main": "index.js",
-  "homepage": "https://sergiosmdev.github.io/dashboard1",
+  "homepage": "https://sergiosmdev.github.io/dashboard",
   "scripts": {
     "dev": "webpack-dev-server --open --mode development",
     "build": "webpack --mode production",
