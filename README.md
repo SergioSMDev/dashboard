@@ -9,5 +9,5 @@ Also by clicking on the course a sidebar appears. In sidebar represent all modul
 
 `npm run dev` run project
 
-## or you can see the app click on link below
+## You can see the app click on link below
 https://sergiosmdev.github.io/dashboard/
