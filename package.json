@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "dashboard",
   "main": "index.js",
+  "homepage": "https://sergiosmdev.github.io/dashboard1",
   "scripts": {
     "dev": "webpack-dev-server --open --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "author": "Togrul, Sergey, Maria",
   "license": "MIT",
